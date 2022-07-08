@@ -1,3 +1,6 @@
+# Version 1.1.0
+- Ajout d'un readme.md.
+
 # Version 1.0.0
 - Création du repository.
 - Ajout d'un dossier _programme.
