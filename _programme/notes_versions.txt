@@ -1,0 +1,6 @@
+# Version 1.0.0
+- Création du repository.
+- Ajout d'un dossier _programme.
+- Ajout de programme.py.
+- Ajout de gestionnaire_fichier.py.
+- Ajout de notes_versions.txt.
